@@ -169,24 +169,6 @@ Service scheduling and maintenance tracking system.
 
 ---
 
-<br>
-
-# 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AsardeenAzees&show_icons=true&theme=tokyonight" />
-</p>
-
-<br>
-
-# 🔥 Contribution Streak
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AsardeenAzees&theme=tokyonight" />
-</p>
-
-<br>
-
----
-
 # 🎓 Certifications
 - AI/ML Engineer Certifications  
 - AWS Cloud Foundations  
@@ -219,5 +201,5 @@ Service scheduling and maintenance tracking system.
 ---
 
 <p align="center">
-⭐ Building intelligent systems that improve real-world workflows
+⭐ Building intelligent systems that improve real-world workflows 
 </p>
