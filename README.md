@@ -2,181 +2,166 @@
 <h3 align="center">AI/ML Automation Engineer | Full-Stack Developer | Software Engineer</h3>
 
 <p align="center">
-I build intelligent automation systems, scalable web applications, and AI-powered tools for real-world business use cases.
+Building intelligent automation systems, AI-powered applications, and scalable full-stack platforms.
 </p>
 
-<br>
+<p align="center">
+<a href="https://azeesasardeen.github.io/asardeen-portfolio/">Portfolio</a> •
+<a href="https://linkedin.com/in/asardeen-azees">LinkedIn</a> •
+<a href="mailto:azeesasardeen@gmail.com">Email</a>
+</p>
 
-### 👨‍💻 About Me
+---
 
-I am a Software Engineer specializing in AI-driven automation and full-stack development.  
-I enjoy building systems that reduce manual effort, improve workflows, and scale efficiently in production environments.  
-My work focuses on integrating AI models, designing clean user experiences, and deploying reliable cloud-based applications.
+# 👨‍💻 About Me
 
-Currently working on intelligent automation systems, LLM integrations, and scalable MERN applications.
+Software Engineer focused on AI automation, full-stack development, and scalable system architecture.  
+I enjoy building real-world applications that combine machine learning, automation, and clean user experience.
 
-- 🎓 BSc (Hons) in Information Technology – SLIIT  
+- 🎓 BSc (Hons) in Information Technology  
 - 🤖 AI/ML Automation Engineer  
-- ☁️ Experience with AWS, Vercel, Render and cloud deployments  
-- ⚙️ Building Salesforce integrated automation systems  
-- 🧠 Interested in AI, Machine Learning, and system architecture  
+- ⚙️ LLM based automation systems  
+- ☁️ Cloud deployments and scalable services  
+- 🔐 Secure authentication and enterprise architecture  
 - 🌍 Based in Colombo, Sri Lanka  
 
-<br>
+---
 
-### 🧠 AI & Automation Work
+# 🧠 AI / Machine Learning Work
 
-- LLM powered document processing systems  
-- Intelligent workflow automation  
-- Multi-provider AI model integrations  
-- AI image generation pipelines  
+- LLM document processing pipelines  
+- AI workflow orchestration  
+- Multi provider model integrations  
+- AI image generation & editing systems  
 - TensorFlow and Scikit-learn models  
-- IoT + ML Smart Greenhouse decision system  
-- Browser automation using Playwright  
-- Data-driven business automation  
+- IoT + ML Smart Greenhouse system  
+- Data driven automation platforms  
 
-<br>
+---
 
 # 🚀 Featured Project
 
-## Zumora AI  
-AI Photo Editing & Image Generation Platform
+## 🧠 Zumora AI  
+AI Photo Editing & Image Generation Platform  
 
-Zumora AI is a production-ready MERN application that allows users to edit images and generate new visuals using modern AI models in a single workspace. The platform combines editing, generation, storage, and history tracking into one clean interface designed for both creators and developers.
+🔗 **Live Demo:** https://zumora-ai.vercel.app  
+🔗 **Backend:** https://zumora-ai-api.onrender.com  
+
+Production ready MERN platform that combines AI image editing, generation, and history tracking in one workspace.
 
 ### Key Features
-- AI image editing with style transformation
-- Prompt-based image generation
-- Multi-provider model support including Gemini, NVIDIA and HuggingFace
-- Download and share generated outputs
-- Full processing history tracking
-- Role-based authentication system
-- Admin dashboard for user management and analytics
-- Feature toggles and model configuration
-- Responsive UI for mobile and desktop
-
-### My Contributions
-- Designed full frontend and backend architecture
-- Implemented provider-based model routing and fallback logic
-- Built role-based authentication and protected admin routes
-- Developed admin dashboard and analytics view
-- Implemented Cloudinary storage consistency logic
-- Fixed deployment issues including CORS and routing
-- Improved UI interactions and navigation states
-- Configured production deployment using Vercel and Render
+- AI image editing and transformation  
+- Prompt based image generation  
+- Multi provider support (Gemini, NVIDIA, HuggingFace)  
+- Role based authentication  
+- Admin dashboard and analytics  
+- Processing history tracking  
+- Download and share outputs  
+- Mobile responsive UI  
 
 ### Tech Stack
-React 18 • Express • MongoDB • Tailwind • JWT • Cloudinary • Axios
+React • Express • MongoDB • Tailwind • Cloudinary • JWT • Axios  
 
-<br>
+---
 
 # 🚀 Other Projects
 
-🌱 Smart Greenhouse Decision Support System  
-Machine learning powered IoT system predicting irrigation needs using real-time sensor data with automated controls.
-
+🌱 Smart Greenhouse ML Decision System  
 🎟 Online Event Ticketing Platform  
-Full-featured event management and ticket booking system with QR coded tickets and reporting.
-
 🧾 Client Management System  
-Enterprise web application with role-based access and workflow tracking.
-
 💰 Financial Management System  
-Integrated finance and payment monitoring platform.
-
-🧁 Bakery Management Web Application  
-Inventory, sales, and order processing system.
-
-📱 Android Financial Management App  
-Personal budgeting mobile application with Firebase.
-
-🎨 Hi-Fi UI/UX Prototype  
-User-centered design prototype built using Figma.
-
+🧁 Bakery Management System  
+📱 Android Budgeting App  
+🎨 UI/UX Hi-Fi Prototype  
 🚗 Vehicle Service Management System  
-Service scheduling and maintenance tracking system.
 
-<br>
+---
 
 # 🛠 Tech Stack
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![C#](https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=csharp)
+## Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,php,cpp" />
+</p>
 
-### Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+## Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap" />
+</p>
 
-### Backend
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
+## Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,laravel,dotnet" />
+</p>
 
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-blue?style=for-the-badge&logo=scikit-learn)
+## AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
+## Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres" />
+</p>
 
-### Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/Render-purple?style=for-the-badge)
+## Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,vercel,netlify,docker,githubactions" />
+</p>
 
-<br>
+## Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
+</p>
 
-# 🎓 Certifications
-- AI/ML Engineer Certifications
-- AWS Cloud Foundations
-- Google UX Design Certificate
-- MERN Stack Certifications
-- MongoDB Certifications
-- Azure Fundamentals
-- AI and Machine Learning Courses
-
-<br>
+---
 
 # 💼 Experience
-AI/ML Automation Engineer  
-Building AI driven workflow automation and document processing systems  
 
-Software Engineer  
-Developed enterprise web applications and scalable backend services  
+### AI/ML Automation Engineer
+- Built LLM powered automation systems  
+- Developed Salesforce integrated browser automation  
+- Designed scalable AWS deployments  
+- Reduced manual work using AI workflows  
 
-<br>
+### Software Engineer
+- Built enterprise web applications  
+- Developed REST APIs and backend services  
+- Implemented secure authentication systems  
+
+---
+
+# 🎓 Certifications
+- AI/ML Engineer Certifications  
+- AWS Cloud Foundations  
+- Google UX Design Certificate  
+- MERN Stack Certifications  
+- MongoDB Certifications  
+- Azure Fundamentals  
+
+---
 
 # 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AsardeenAzees&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=AsardeenAzees&show_icons=true&theme=tokyonight"/>
 </p>
 
-<br>
-
-# 🔥 Contribution Streak
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AsardeenAzees&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AsardeenAzees&theme=tokyonight"/>
 </p>
 
-<br>
+---
 
-# 📫 Connect With Me
-- 📧 azeesasardeen@gmail.com
-- 🌐 Portfolio: https://azeesasardeen.github.io/asardeen-portfolio
-- 💼 LinkedIn: https://linkedin.com/in/asardeen-azees
-- 🐙 GitHub: https://github.com/AsardeenAzees
+# 📫 Contact
 
-<br>
+📧 azeesasardeen@gmail.com  
+🌐 https://azeesasardeen.github.io/asardeen-portfolio  
+💼 https://linkedin.com/in/asardeen-azees  
+🐙 https://github.com/AsardeenAzees  
+
+---
 
 <p align="center">
-⭐ Building intelligent systems that make real-world workflows smarter
+⭐ Building intelligent systems that improve real-world workflows
 </p>
