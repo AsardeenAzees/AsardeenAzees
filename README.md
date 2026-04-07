@@ -42,10 +42,10 @@ I enjoy building real-world applications that combine machine learning, automati
 # 🚀 Featured Project
 
 ## 🧠 Zumora AI  
-AI Photo Editing & Image Generation Platform  
+
+Zumora AI is a production-ready MERN application that allows users to edit images and generate new visuals using modern AI models in a single workspace. The platform combines editing, generation, storage, and history tracking into one clean interface designed for both creators and developers.
 
 🔗 **Live Demo:** https://zumora-ai.vercel.app  
-🔗 **Backend:** https://zumora-ai-api.onrender.com  
 
 Production ready MERN platform that combines AI image editing, generation, and history tracking in one workspace.
 
@@ -59,21 +59,59 @@ Production ready MERN platform that combines AI image editing, generation, and h
 - Download and share outputs  
 - Mobile responsive UI  
 
+### My Contributions
+- Designed full frontend and backend architecture (Entire system designed and developed)
+- Implemented provider-based model routing and fallback logic
+- Built role-based authentication and protected admin routes
+- Developed admin dashboard and analytics view
+- Implemented Cloudinary storage consistency logic
+- Fixed deployment issues including CORS and routing
+- Improved UI interactions and navigation states
+- Configured production deployment using Vercel and Render
+
+### 🧠 AI Models Used
+- Google Gemini (gemini-2.5-flash-image)
+- NVIDIA NIM (stable-diffusion-3-medium, flux models)
+- HuggingFace SDXL
+- GitHub Models (admin configurable)
+
+### ⚙️ Infrastructure
+- Cloudinary (image storage)
+- MongoDB Atlas
+- Render (backend)
+- Vercel (frontend)
+
 ### Tech Stack
-React • Express • MongoDB • Tailwind • Cloudinary • JWT • Axios  
+React • Express • MongoDB • Tailwind • Cloudinary • JWT • Axios • Render
+
 
 ---
 
 # 🚀 Other Projects
 
-🌱 Smart Greenhouse ML Decision System  
+🌱 Smart Greenhouse Decision Support System  
+Machine learning powered IoT system predicting irrigation needs using real-time sensor data with automated controls.
+
 🎟 Online Event Ticketing Platform  
+Full-featured event management and ticket booking system with QR coded tickets and reporting.
+
 🧾 Client Management System  
+Enterprise web application with role-based access and workflow tracking.
+
 💰 Financial Management System  
-🧁 Bakery Management System  
-📱 Android Budgeting App  
-🎨 UI/UX Hi-Fi Prototype  
+Integrated finance and payment monitoring platform.
+
+🧁 Bakery Management Web Application  
+Inventory, sales, and order processing system.
+
+📱 Android Financial Management App  
+Personal budgeting mobile application with Firebase.
+
+🎨 Hi-Fi UI/UX Prototype  
+User-centered design prototype built using Figma.
+
 🚗 Vehicle Service Management System  
+Service scheduling and maintenance tracking system.
 
 ---
 
