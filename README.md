@@ -157,15 +157,33 @@ Service scheduling and maintenance tracking system.
 # 💼 Experience
 
 ### AI/ML Automation Engineer
-- Built LLM powered automation systems  
+- Built LLM powered automation systems by using saleforce, playwrite, AI models, AWS services
 - Developed Salesforce integrated browser automation  
-- Designed scalable AWS deployments  
-- Reduced manual work using AI workflows  
+- Designed scalable AWS deployments 
+- Reduced manual work using AI Automation workflows  
 
 ### Software Engineer
 - Built enterprise web applications  
 - Developed REST APIs and backend services  
 - Implemented secure authentication systems  
+
+---
+
+<br>
+
+# 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AsardeenAzees&show_icons=true&theme=tokyonight" />
+</p>
+
+<br>
+
+# 🔥 Contribution Streak
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AsardeenAzees&theme=tokyonight" />
+</p>
+
+<br>
 
 ---
 
