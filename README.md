@@ -90,7 +90,8 @@ React • Express • MongoDB • Tailwind • Cloudinary • JWT • Axios • 
 # 🚀 Other Projects
 
 🌱 Smart Greenhouse Decision Support System  
-Machine learning powered IoT system predicting irrigation needs using real-time sensor data with automated controls.
+Machine learning powered IoT system predicting irrigation needs using real-time sensor data with automated controls. 
+🔗 **Project Information Website:** https://greenbrainak.netlify.app/
 
 🎟 Online Event Ticketing Platform  
 Full-featured event management and ticket booking system with QR coded tickets and reporting.
