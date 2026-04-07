@@ -1,40 +1,72 @@
 <h1 align="center">Hi 👋, I'm Azees Asardeen</h1>
 <h3 align="center">AI/ML Automation Engineer | Full-Stack Developer | Software Engineer</h3>
 
+<p align="center">
+Building AI-powered automation systems & scalable full-stack applications
+</p>
+
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Working as **AI/ML Automation Engineer**
-- 🤖 Building AI-driven automation & intelligent workflow systems
-- ⚙️ Experienced with **LLMs, Salesforce Automation, Playwright, Python**
-- ☁️ Deploying scalable services using **AWS, Vercel & Render**
-- 🧠 Interested in **AI, Machine Learning, Full-Stack Engineering**
-- 🚀 Passionate about solving real-world problems using intelligent systems
+- 🎓 BSc (Hons) in Information Technology – SLIIT
+- 🔭 AI/ML Automation Engineer (Lanka.tax)
+- 🤖 Building LLM-based intelligent automation systems
+- ⚙️ Salesforce + Playwright + Python automation
+- ☁️ Deploying scalable services using AWS & cloud platforms
+- 🧠 Interested in AI, Machine Learning & Full-Stack Engineering
+- 🚀 Passionate about solving real-world business problems using automation
 
 ---
 
 ### 🧠 AI / Machine Learning Work
-- LLM-powered document processing
-- AI workflow automation systems
-- Image generation & AI editing pipelines
-- TensorFlow / Scikit-learn models
-- IoT + ML Smart Greenhouse system
+- LLM-powered document processing automation
+- AI workflow orchestration systems
 - Multi-provider AI model integrations
+- TensorFlow / Scikit-learn ML models
+- IoT + ML Smart Greenhouse system
+- AI image generation pipelines
+- Intelligent data-driven automation
 
 ---
 
-### 🚀 Featured Project — Zumora AI (NEW)
-**AI Photo Editing & Image Generation Platform**
+# 🚀 Featured Project — Zumora AI
+### AI Photo Editing & Image Generation Platform
 
-- 🎨 AI image editing & transformation
-- 🧠 Prompt-based AI image generation
-- 🔄 Multi-provider model support (Gemini, NVIDIA, HuggingFace)
-- 📂 Processing history & download/share outputs
-- 🔐 Role-based authentication & admin dashboard
-- 📊 Analytics, user management & feature toggles
-- ☁️ Production deployment (Vercel + Render)
+🧠 A production-ready MERN web app for AI-powered image editing and generation.
 
-**Tech Stack:** React • Express • MongoDB • Cloudinary • Tailwind • JWT
+### Key Features
+- AI image editing & transformation
+- Prompt-based image generation
+- Multi-provider support (Gemini, NVIDIA, HuggingFace, GitHub)
+- Download & share outputs
+- Processing history tracking
+- Admin dashboard (users, analytics, model configs)
+- Role-based authentication
+- Responsive UI (mobile + desktop)
+
+### My Contributions
+- Architected frontend/backend AI workflow
+- Implemented multi-provider model handling
+- Built secure role-based authentication
+- Created admin dashboard
+- Fixed production deployment issues
+- Implemented Cloudinary data consistency
+- Enhanced premium UI interactions
+
+### Tech Stack
+React • Express • MongoDB • Cloudinary • Tailwind • JWT • Axios
+
+---
+
+### 🚀 Other Projects
+- 🌱 Smart Greenhouse ML Decision Support System
+- 🎟 Online Event Ticketing Web Application
+- 🧾 Client Management System
+- 💰 Financial Management System
+- 🧁 Bakery Management Web Application
+- 📱 Android Financial Management App
+- 🎨 Hi-Fi UI/UX Prototype
+- 🚗 Vehicle Service Management System
 
 ---
 
@@ -75,17 +107,6 @@
 
 ---
 
-### 🚀 Other Projects
-- 🤖 AI Document Automation System
-- 🌱 Smart Greenhouse ML System
-- 🎟 Online Event Ticketing Platform
-- 🧾 Client Management System
-- 💰 Financial Management System
-- 🧁 Bakery Management System
-- 📱 Android Budgeting App
-
----
-
 ### 🎓 Certifications
 - AI/ML Engineer Certifications
 - AWS Cloud Foundations
@@ -93,25 +114,41 @@
 - MERN Stack Certifications
 - MongoDB & Firebase Certifications
 - Azure Fundamentals
+- AI & ML Courses
+
+---
+
+### 💼 Experience
+- AI/ML Automation Engineer — Lanka.tax
+- Software Engineer — Gamage Recruiters
+- Enterprise Web Application Development
+- AI-driven workflow automation
+- Cloud-based scalable services
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AsardeenAzees&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=AsardeenAzees&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🔥 Contribution Streak
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AsardeenAzees&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AsardeenAzees&theme=tokyonight" />
 </p>
 
 ---
 
-### 📫 Contact
+### 📫 Connect With Me
 - 📧 azeesasardeen@gmail.com
 - 🌐 Portfolio: https://azeesasardeen.github.io/asardeen-portfolio
 - 💼 LinkedIn: https://linkedin.com/in/asardeen-azees
 - 🐙 GitHub: https://github.com/AsardeenAzees
+
+---
+
+<p align="center">
+⭐ Building AI-powered systems for real-world impact
+</p>
